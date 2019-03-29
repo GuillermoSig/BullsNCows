@@ -6,9 +6,15 @@ Sadly, I never got to the Unreal part of the course due to lack of time because 
 activities.
 
 In this project, I learned the basics of C++ and Game Design, including but not limited to:
+
 • Game Design Documents
+
 • Function Syntax 
+
 • Using #include 
+
 • Getting input using cin
+
 • legibility of code
+
 • and much more!
